@@ -1,6 +1,6 @@
 {
   "name": "nano-bridge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility for connecting to nanopoint 4 bridge in a webview.",
   "keywords": [
     "nanonation",
